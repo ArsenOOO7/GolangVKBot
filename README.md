@@ -1,2 +1,1 @@
-# GolangVKBot
-Simple VK bot on GoLang
+# SEE BRANCH MASTER
